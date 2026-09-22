@@ -30,7 +30,7 @@ Manual loan evaluation is inconsistent and slow. This project automates the elig
 | File | Description |
 |------|-------------|
 | `loan-eligibility-prediction-machine-learning.ipynb` | Full EDA + training pipeline |
-| `logistic_model.pkl` | Saved production-ready model |
+| `logistic_model.pkl` | Saved trained model, exported for reuse |
 
 ## 🛠️ Tech Stack
 `Python` · `pandas` · `scikit-learn` · `pickle` · `matplotlib` · `Jupyter`
